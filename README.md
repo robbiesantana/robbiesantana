@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning CSS / HTML and JS 
 
-- 💼 Write screenplays and rant about theater at my blog
+-- 💼 Write screenplays and rant about theater at my blog
 
 - 🌉 Vimeo Porfolio will show you some of my most recent works
 
