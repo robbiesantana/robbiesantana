@@ -8,7 +8,7 @@ I started working as video editor freelancer in 2015 and worked with different e
 
 -  🌁 Now that you're there, take a look to this experimental piece.
 
-This year I'm completing 100 days of code. This is also a crucial year for me since I'm launching my own business and I'm doing the Santiago Way, where I'll be walking for over 10 days from Burgos to Santiago de Compostela (over 200 miles).
+This year I'm completing 100 days of code. This is also a crucial year for me since I'm launching my own business and I'm doing the Santiago Way, where I'll be walking for 10 days. (over 200 miles).
 
 One of my main focus in video editing is creating accesible media pieces. I include closed captioning and other technologies.
 
