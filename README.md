@@ -1,8 +1,8 @@
 Hi, I’m @robbiesantana 
 
-👀 I’m a videographer
+ I’m a videographer
 
-- 🌱 I’m currently learning CSS / HTML and JavaScript. When I'm not tackling down Codecademy courses, I might be listening music, or writing screenplays and ranting about theater at my blog at http://robbiesantana.com
+-  I’m currently learning CSS / HTML and JavaScript. When I'm not tackling down Codecademy courses, I might be listening music, or writing screenplays and ranting about theater at my blog at http://robbiesantana.com
 
 I started working as video editor freelancer in 2015 and worked with different enegetic entrepeneurs from South Florida area. Vimeo Porfolio will show you some of my most recent works
 
